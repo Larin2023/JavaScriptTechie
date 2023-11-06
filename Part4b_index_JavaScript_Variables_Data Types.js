@@ -38,7 +38,7 @@
 
 //        // Difference between var and let
 //
-//        // var is function scope (undifine) and let is block scope  (error)
+//        // var is function scope (undefined) and let is block scope  (error)
 //
 //        console.log(x);
 //
